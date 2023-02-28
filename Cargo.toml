@@ -1,0 +1,8 @@
+[package]
+name = "autorest-diff"
+version = "0.1.0"
+edition = "2021"
+repository = "https://github.com/heaths/autorest-diff"
+license = "MIT"
+
+[dependencies]
